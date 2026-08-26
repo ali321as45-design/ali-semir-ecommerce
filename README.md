@@ -106,10 +106,10 @@ npm run build
 - Font: Segoe UI, Tahoma, Geneva
 - Responsive Breakpoint: 768px
 
-## 📞 İletişim
+## 📞 İletişim 
 
 - **Email**: info@alisemir.com
-- **Telefon**: +90 (555) 000-0000
+- **Telefon**: +90 (536)834-4080
 - **Adres**: İstanbul, Türkiye
 
 ## 📝 Lisans
